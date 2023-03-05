@@ -16,3 +16,5 @@ C:\Users\ASUS\source\repos\DesktopProjectLesson\DesktopProjectLesson\obj\Debug\n
 C:\Users\ASUS\source\repos\DesktopProjectLesson\DesktopProjectLesson\obj\Debug\net6.0-windows\DesktopProjectLesson.genruntimeconfig.cache
 C:\Users\ASUS\source\repos\DesktopProjectLesson\DesktopProjectLesson\obj\Debug\net6.0-windows\ref\DesktopProjectLesson.dll
 C:\Users\ASUS\source\repos\DesktopProjectLesson\DesktopProjectLesson\obj\Debug\net6.0-windows\DesktopProjectLesson.SecondForm.resources
+C:\Users\ASUS\source\repos\DesktopProjectLesson\DesktopProjectLesson\obj\Debug\net6.0-windows\DesktopProjectLesson.ComboBox.resources
+C:\Users\ASUS\source\repos\DesktopProjectLesson\DesktopProjectLesson\obj\Debug\net6.0-windows\DesktopProjectLesson.Properties.Resources.resources
