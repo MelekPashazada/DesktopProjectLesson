@@ -67,5 +67,10 @@ namespace DesktopProjectLesson
             openFileDialog1.ShowDialog();
             pictureBox1.ImageLocation=openFileDialog1.FileName;
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Sekli deyisdirmek ucun import duymesine klikleyin!!!");
+        }
     }
 }
